@@ -3,7 +3,7 @@ import { connect } from "cloudflare:sockets";
 // import { Buffer } from "node:buffer";
 
 // Variables
-const rootDomain = "netrangsot.my.id"; // Ganti dengan domain utama kalian
+const rootDomain = "netrangsot.workers.dev"; // Ganti dengan domain utama kalian
 const serviceName = "rusli"; // Ganti dengan nama workers kalian
 const apiKey = "TrBf8xAUvtwKk-wqT19_6Sjm-kA8U8ZUgdjYa60b"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "aunilrefill@gmail.com"; // Ganti dengan email yang kalian gunakan
